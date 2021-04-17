@@ -24,8 +24,8 @@ Result
 ======
 9 54.0
 
-Notes
-=====
+Additional Notes
+================
 1. Design Pattern used: Template Method, Builder, Immutable Object, Dependency Injection, Singleton, Optional
 2. The input file is stored in resources dir. It is part of the jar file
 
