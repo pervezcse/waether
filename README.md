@@ -2,8 +2,8 @@ Assumptions
 ===========
 1. All data row of a valid input file must contain MinT and MaxT.
 
-Technology
-==========
+Technologies
+============
 1. Language: Java 8 (prerequisite to build)
 2. Build tool: maven (prerequisite to build)
 3. Framework: Spring Boot
