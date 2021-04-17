@@ -17,8 +17,12 @@ How to build
     mvn clean package
 
 How to run
-===========
+==========
 java -jar target/weather-0.0.1-SNAPSHOT.jar
+
+Result
+======
+9 54.0
 
 Notes
 =====
