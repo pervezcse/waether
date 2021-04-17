@@ -26,7 +26,7 @@ Result
 
 Notes
 =====
-1. Design Pattern used: Template Method, Builder, Immutable Object, Dependency Injection
+1. Design Pattern used: Template Method, Builder, Immutable Object, Dependency Injection, Singleton
 2. The input file is stored in resources dir. It is part of the jar file
 
 
