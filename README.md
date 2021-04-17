@@ -27,7 +27,7 @@ Result
 Additional Notes
 ================
 1. Design Pattern used: Template Method, Builder, Immutable Object, Dependency Injection, Singleton, Optional
-2. The input file is stored in resources dir. It is part of the jar file
+2. The input file weather.csv is stored in "resources/data" directory. It is part of the jar file
 
 
 
